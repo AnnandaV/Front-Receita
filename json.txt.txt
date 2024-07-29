@@ -1,0 +1,27 @@
+"editor.fontSizer": 20: Define o tamanho da fonte do editor como 20 pixels. Isso determina o tamanho do texto que você verá no editor.
+
+"editor.lineHeight": 1.6: Define a altura da linha como 1.6. Isso especifica o espaçamento vertical entre as linhas de texto no editor. Uma altura de linha maior pode melhorar a legibilidade.
+
+"editor.tabSize": 2: Define o tamanho da tabulação como 2 espaços. Isso determina a quantidade de espaços que serão inseridos quando pressionar a tecla "Tab". Neste caso, cada vez que abrir "Tab", será inserido um espaço equivalente a dois espaços.
+
+"editor.minimap.enabled": false: Desativa a visualização do minimapa. O minimapa é uma visualização de todo o código do arquivo no lado direito do editor. Desativá-lo pode melhorar o desempenho em arquivos grandes ou simplesmente para reduzir a desordem visual.
+
+"editor.wordWrap": "on": Ativa a quebra de linha automática. Isso significa que o texto será quebrado automaticamente para caber na largura da janela do editor, em vez de precisar de rolagem horizontal.
+
+"editor.glypMargin": false: Desativa a margem de glifos. A margem de glifos é usada para exibir ícones na margem do editor, como marcadores de erro, avisos, etc.
+
+"files.autoSave": "afterDelay": Define uma opção de salvamento automático do arquivo como "afterDelay" (após um atraso). Isso significa que o arquivo será salvo automaticamente após um determinado período de inatividade ou edição, ajudando a evitar a perda de dados.
+
+Configurações relacionadas ao Modo Zen:
+
+"zenMode.fullScreen": false: Define se o modo Zen deve ocupar a tela inteira. Aqui está configurado para não ocupar toda a tela.
+
+"zenMode.centerLayout": false: Define se o layout no modo Zen deve ser centralizado. Aqui está configurado para não centralizar.
+
+"zenMode.showTabs": "single": Define como as abas são exibidas no modo Zen. Aqui está configurado para mostrar apenas uma guia.
+
+
+
+
+
+
